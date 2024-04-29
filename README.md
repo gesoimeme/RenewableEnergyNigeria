@@ -1,9 +1,10 @@
 # RenewableEnergyNigeria
 Scope
-Prodcut
+Product
 Price
 Quality
 Electricity Act
 Opportunity
 Marketing
 Sales
+Trainiing
